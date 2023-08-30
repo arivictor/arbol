@@ -16,6 +16,9 @@ Arbol, a simple Command-Line Interface (CLI) tool to pretty-print the directory 
 
 ## Quick Start
 
+```bash
+go install github.com/arivictor/arbol@latest
+```
 ### Build from Source
 
 1. Clone the repository:
