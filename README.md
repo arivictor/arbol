@@ -1,4 +1,6 @@
-![arbol](cover.png)
+# Arbol
+
+![screenshot](screenshot.png)
 
 Arbol, a simple Command-Line Interface (CLI) tool to pretty-print the directory structure as an ASCII tree. Developed in Go, the tool provides an easy way to visualize the layout of files and directories, optionally including metadata such as file size and modification time.
 
@@ -13,8 +15,6 @@ Arbol, a simple Command-Line Interface (CLI) tool to pretty-print the directory 
 - [Go](https://golang.org/) 1.14 or higher
 
 ## Quick Start
-
-![quick start](screenshot.png)
 
 ### Build from Source
 
